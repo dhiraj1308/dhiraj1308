@@ -15,7 +15,7 @@
 
 ## About
 
-I'm a Computer Science (AI & ML) student at SRM Institute of Science and Technology. My main project is **FinSight AI**, a Python financial assistant that combines statement ingestion, spending analytics, anomaly detection, forecasting and a RAG-based chat agent behind a FastAPI backend and Streamlit dashboard. My other public repositories are web apps built with JavaScript and CSS: a live weather site, a startup-investor connection platform, a task manager, and an accessibility-focused Braille learning platform.
+I'm a Computer Science (AI & ML) student at SRM Institute of Science and Technology, Chennai, drawn to the point where data turns into decisions. I'm most curious about how machines can learn from messy, real-world information, how language models can be grounded in facts instead of guesses, and how to build backends that make intelligent features dependable. I also care about technology that is accessible and useful to people who are often overlooked, and I like solving problems with clear logic and clean code. For me, good engineering means building things that are understandable, reliable, and honest about their limits.
 
 ## Featured Projects
 
