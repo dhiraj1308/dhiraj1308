@@ -72,4 +72,4 @@ A task app for adding and managing daily tasks, with add/delete animations and s
 
 ## Get in Touch
 
-I'm open to internships and collaboration in software engineering and AI/ML. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/pdhiraj13/) or by [email](mailto:dhirajpandipati@gmail.com).
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/pdhiraj13/) or by [email](mailto:dhirajpandipati@gmail.com).
