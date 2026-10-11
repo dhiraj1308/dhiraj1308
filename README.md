@@ -17,7 +17,7 @@
 
 I'm a Computer Science (AI & ML) student at SRM Institute of Science and Technology, Chennai, drawn to the point where data turns into decisions. I'm most curious about how machines can learn from messy, real-world information, how language models can be grounded in facts instead of guesses, and how to build backends that make intelligent features dependable. I also care about technology that is accessible and useful to people who are often overlooked, and I like solving problems with clear logic and clean code. For me, good engineering means building things that are understandable, reliable, and honest about their limits.
 
-## Featured Projects
+## Projects
 
 ### [FinSight AI](https://github.com/dhiraj1308/finsight-ai)
 An AI financial assistant that lets users upload bank or credit-card statements and explore their spending through a dashboard and a natural-language chat.
@@ -25,32 +25,29 @@ An AI financial assistant that lets users upload bank or credit-card statements 
 - Ingests CSV and PDF statements into a normalized transaction structure stored in SQLite
 - Categorizes transactions, analyzes spending, detects anomalies and forecasts future spending
 - Retrieval-augmented chat agent using embeddings and a vector store, with tools over the user's own transaction data
-- FastAPI backend and an 8-page Streamlit frontend (Dashboard, Upload, Transactions, Analytics, Forecast, Anomalies, Chat, Settings)
-- Pytest unit and frontend tests
+- FastAPI backend and an 8-page Streamlit frontend, with Pytest unit and frontend tests
 
 **Stack:** Python, FastAPI, Streamlit, SQLite, Pandas, NumPy, Scikit-learn, Sentence Transformers, LangChain, Pytest
 
 ### [visionaid](https://github.com/dhiraj1308/visionaid)
 A web-based platform to learn Braille script, aimed at visually impaired learners through interactive, accessible education.
-**Language:** CSS (as shown on GitHub)
+
+**Language:** CSS
 
 ### [Margsetu-](https://github.com/dhiraj1308/Margsetu-)
 A platform where young entrepreneurs pitch their ideas and connect with investors for funding opportunities.
-**Language:** JavaScript · Forked by 1 user
+
+**Language:** JavaScript
 
 ### [weather-website](https://github.com/dhiraj1308/weather-website)
 A website that shows live weather conditions such as temperature, wind speed and humidity for different locations.
+
 **Language:** JavaScript
 
-## All Projects
+### [Daily-Life-Todo-list-](https://github.com/dhiraj1308/Daily-Life-Todo-list-)
+A task app for adding and managing daily tasks, with add/delete animations and strikethrough completion tracking. Handles 100+ tasks.
 
-| Project | Description | Main technologies |
-|---|---|---|
-| [finsight-ai](https://github.com/dhiraj1308/finsight-ai) | AI financial assistant: statement ingestion, analytics, anomaly detection, forecasting and RAG chat | Python, FastAPI, Streamlit, SQLite, LangChain |
-| [visionaid](https://github.com/dhiraj1308/visionaid) | Web-based platform to learn Braille script for visually impaired learners | CSS |
-| [Margsetu-](https://github.com/dhiraj1308/Margsetu-) | Pitch platform connecting young entrepreneurs with investors | JavaScript |
-| [weather-website](https://github.com/dhiraj1308/weather-website) | Live weather updates: temperature, wind speed, humidity | JavaScript |
-| [Daily-Life-Todo-list-](https://github.com/dhiraj1308/Daily-Life-Todo-list-) | Task app with add/delete animations and strikethrough completion tracking; handles 100+ tasks | CSS |
+**Language:** CSS
 
 ## Technical Skills
 
