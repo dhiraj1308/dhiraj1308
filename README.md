@@ -15,7 +15,7 @@
 
 ## About
 
-I'm a second-year Computer Science (AI & ML) student with a 9.51 CGPA. My main project is **FinSight AI**, a Python financial assistant that combines statement ingestion, spending analytics, anomaly detection, forecasting and a RAG-based chat agent behind a FastAPI backend and Streamlit dashboard. My other public repositories are web apps built with JavaScript and CSS: a live weather site, a startup-investor connection platform, a task manager, and an accessibility-focused Braille learning platform.
+I'm a Computer Science (AI & ML) student at SRM Institute of Science and Technology. My main project is **FinSight AI**, a Python financial assistant that combines statement ingestion, spending analytics, anomaly detection, forecasting and a RAG-based chat agent behind a FastAPI backend and Streamlit dashboard. My other public repositories are web apps built with JavaScript and CSS: a live weather site, a startup-investor connection platform, a task manager, and an accessibility-focused Braille learning platform.
 
 ## Featured Projects
 
@@ -62,8 +62,8 @@ A website that shows live weather conditions such as temperature, wind speed and
 
 ## Education
 
-- **B.Tech, CSE (AI & ML)**, SRM Institute of Science and Technology, 2024 – 2028 · CGPA 9.51
-- **Class XI & XII**, Narayana Jr. College, 2022 – 2024 · 94.1%
+- **B.Tech, CSE (AI & ML)**, SRM Institute of Science and Technology
+- **Class XI & XII**, Narayana Jr. College
 
 ## Achievements
 
