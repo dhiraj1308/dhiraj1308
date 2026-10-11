@@ -75,10 +75,22 @@ A task app for adding and managing daily tasks, with add/delete animations and s
 <b>Databases & Tools:</b> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"> <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest">
 </p>
 
-## Contribution Graph
+## Contribution Arcade
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D view of my GitHub contributions over the past year" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhiraj1308/dhiraj1308/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhiraj1308/dhiraj1308/output/pacman-contribution-graph.svg">
+  <img alt="Pacman game played on my GitHub contribution graph" src="https://raw.githubusercontent.com/dhiraj1308/dhiraj1308/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhiraj1308/dhiraj1308/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhiraj1308/dhiraj1308/output/galaga-contribution-graph.svg">
+  <img alt="Galaga game played on my GitHub contribution graph" src="https://raw.githubusercontent.com/dhiraj1308/dhiraj1308/output/galaga-contribution-graph.svg" width="100%">
+</picture>
 </p>
 
 ## Education
