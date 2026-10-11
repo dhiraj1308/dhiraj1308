@@ -15,7 +15,7 @@
 
 ## About
 
-I'm a second-year Computer Science (AI & ML) student with a 9.51 CGPA. My public repositories include web apps built with JavaScript, CSS and Java: a live weather site, a startup-investor connection platform, a task manager, and an accessibility-focused Braille learning platform. I'm currently expanding into machine learning and backend engineering.
+I'm a second-year Computer Science (AI & ML) student with a 9.51 CGPA. My public repositories include web apps built with JavaScript and CSS: a live weather site, a startup-investor connection platform, a task manager, and an accessibility-focused Braille learning platform. I'm currently expanding into machine learning and backend engineering.
 
 ## Featured Projects
 
@@ -39,9 +39,6 @@ A website that shows live weather conditions such as temperature, wind speed and
 | [Margsetu-](https://github.com/dhiraj1308/Margsetu-) | Pitch platform connecting young entrepreneurs with investors | JavaScript |
 | [weather-website](https://github.com/dhiraj1308/weather-website) | Live weather updates: temperature, wind speed, humidity | JavaScript |
 | [Daily-Life-Todo-list-](https://github.com/dhiraj1308/Daily-Life-Todo-list-) | Task app with add/delete animations and strikethrough completion tracking; handles 100+ tasks | CSS |
-| [BookMyStayApp](https://github.com/dhiraj1308/BookMyStayApp) | Java application (description to be added) | Java |
-| [TrainApp](https://github.com/dhiraj1308/TrainApp) | Java application (description to be added) | Java |
-| <!-- 7th repo: add name, link, description --> | | |
 
 ## Technical Skills
 
