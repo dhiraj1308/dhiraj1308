@@ -65,13 +65,15 @@ A task app for adding and managing daily tasks, with add/delete animations and s
 
 <img src="https://img.shields.io/badge/HTML5-2d333b?style=flat&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-2d333b?style=flat&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-2d333b?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
 
-## Technical Skills
+## Tech Stack
 
-- **Languages:** Python, Java, C, SQL, JavaScript, HTML/CSS
-- **AI / ML:** Scikit-learn, Sentence Transformers, LangChain (RAG), Pandas, NumPy; also TensorFlow, PyTorch
-- **Backend:** FastAPI, SQLite; also Spring Boot
-- **Frontend:** Streamlit, JavaScript, HTML/CSS; also React
-- **Testing & tools:** Pytest, Git, VS Code, Jupyter Notebook, MySQL Workbench
+<p>
+<b>Languages:</b> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"><br>
+<b>Backend:</b> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"><br>
+<b>Frontend:</b> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"><br>
+<b>AI / ML:</b> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"> <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost"><br>
+<b>Databases & Tools:</b> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"> <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest">
+</p>
 
 ## Education
 
@@ -85,10 +87,3 @@ A task app for adding and managing daily tasks, with add/delete animations and s
 - Best Project Award, JAVA Project Expo 2025, SRMIST
 - Top 10 Finalist, Day-Zero National-Level Hackathon
 - Winter Research Intern, IIT Indore (Dec 2025)
-
-## Get in Touch
-
-Feel free to reach out about software engineering, AI/ML or collaboration.
-
-<a href="mailto:dhirajpandipati@gmail.com"><img src="https://img.shields.io/badge/Email-dhirajpandipati@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=555555" alt="Email"></a>
-<a href="https://www.linkedin.com/in/pdhiraj13/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn"></a>
