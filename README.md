@@ -59,8 +59,8 @@ A task app for adding and managing daily tasks, with add/delete animations and s
 
 ## Education
 
-- **B.Tech, CSE (AI & ML)**, SRM Institute of Science and Technology
-- **Class XI & XII**, Narayana Jr. College
+- **B.Tech, CSE (AI & ML)**, SRM Institute of Science and Technology, 2024 – 2028
+- **Class XI & XII**, Narayana Jr. College, 2022 – 2024
 
 ## Achievements
 
