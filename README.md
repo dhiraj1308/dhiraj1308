@@ -32,22 +32,38 @@ An AI financial assistant that lets users upload bank or credit-card statements 
 ### [visionaid](https://github.com/dhiraj1308/visionaid)
 A web-based platform to learn Braille script, aimed at visually impaired learners through interactive, accessible education.
 
-<img src="https://img.shields.io/badge/CSS-2d333b?style=flat&logo=css3&logoColor=white" alt="CSS">
+- Interactive web interface for learning the Braille script
+- Designed around accessibility for visually impaired learners
+- Browser-based, so it needs no installation
+
+<img src="https://img.shields.io/badge/HTML5-2d333b?style=flat&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-2d333b?style=flat&logo=css3&logoColor=white" alt="CSS3">
 
 ### [Margsetu-](https://github.com/dhiraj1308/Margsetu-)
 A platform where young entrepreneurs pitch their ideas and connect with investors for funding opportunities.
 
-<img src="https://img.shields.io/badge/JavaScript-2d333b?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
+- Lets young entrepreneurs present their ideas to potential investors
+- Connects founders with investors looking for funding opportunities
+- Web application built with JavaScript
+
+<img src="https://img.shields.io/badge/HTML5-2d333b?style=flat&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-2d333b?style=flat&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-2d333b?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
 
 ### [weather-website](https://github.com/dhiraj1308/weather-website)
 A website that shows live weather conditions such as temperature, wind speed and humidity for different locations.
 
-<img src="https://img.shields.io/badge/JavaScript-2d333b?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
+- Shows live temperature, wind speed and humidity
+- Lets users check weather conditions for different locations
+- Browser-based site built with JavaScript
+
+<img src="https://img.shields.io/badge/HTML5-2d333b?style=flat&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-2d333b?style=flat&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-2d333b?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
 
 ### [Daily-Life-Todo-list-](https://github.com/dhiraj1308/Daily-Life-Todo-list-)
-A task app for adding and managing daily tasks, with add/delete animations and strikethrough completion tracking. Handles 100+ tasks.
+A task app for adding and managing daily tasks, with add/delete animations and strikethrough completion tracking.
 
-<img src="https://img.shields.io/badge/CSS-2d333b?style=flat&logo=css3&logoColor=white" alt="CSS">
+- Add and delete daily tasks quickly, with smooth animations
+- Handles 100+ tasks
+- Tracks daily productivity by striking through completed tasks
+
+<img src="https://img.shields.io/badge/HTML5-2d333b?style=flat&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-2d333b?style=flat&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-2d333b?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
 
 ## Technical Skills
 
@@ -69,3 +85,10 @@ A task app for adding and managing daily tasks, with add/delete animations and s
 - Best Project Award, JAVA Project Expo 2025, SRMIST
 - Top 10 Finalist, Day-Zero National-Level Hackathon
 - Winter Research Intern, IIT Indore (Dec 2025)
+
+## Get in Touch
+
+Feel free to reach out about software engineering, AI/ML or collaboration.
+
+<a href="mailto:dhirajpandipati@gmail.com"><img src="https://img.shields.io/badge/Email-dhirajpandipati@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=555555" alt="Email"></a>
+<a href="https://www.linkedin.com/in/pdhiraj13/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn"></a>
