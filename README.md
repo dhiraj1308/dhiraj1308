@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pdhiraj13/">LinkedIn</a> ·
-  <a href="mailto:dhirajpandipati@gmail.com">Email</a> ·
-  <a href="https://github.com/dhiraj1308?tab=repositories">All repositories</a>
+  <a href="mailto:dhirajpandipati@gmail.com"><img src="https://img.shields.io/badge/Email-dhirajpandipati@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=555555" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/pdhiraj13/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn"></a>
+  <a href="https://github.com/dhiraj1308?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github&logoColor=white&labelColor=555555" alt="GitHub repositories"></a>
 </p>
 
 ---
@@ -27,27 +27,27 @@ An AI financial assistant that lets users upload bank or credit-card statements 
 - Retrieval-augmented chat agent using embeddings and a vector store, with tools over the user's own transaction data
 - FastAPI backend and an 8-page Streamlit frontend, with Pytest unit and frontend tests
 
-**Stack:** Python, FastAPI, Streamlit, SQLite, Pandas, NumPy, Scikit-learn, Sentence Transformers, LangChain, Pytest
+<img src="https://img.shields.io/badge/Python-2d333b?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-2d333b?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Streamlit-2d333b?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"> <img src="https://img.shields.io/badge/SQLite-2d333b?style=flat&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/Pandas-2d333b?style=flat&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-2d333b?style=flat&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Scikit--learn-2d333b?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn"> <img src="https://img.shields.io/badge/Sentence%20Transformers-2d333b?style=flat" alt="Sentence Transformers"> <img src="https://img.shields.io/badge/LangChain-2d333b?style=flat&logo=langchain&logoColor=white" alt="LangChain"> <img src="https://img.shields.io/badge/Pytest-2d333b?style=flat&logo=pytest&logoColor=white" alt="Pytest">
 
 ### [visionaid](https://github.com/dhiraj1308/visionaid)
 A web-based platform to learn Braille script, aimed at visually impaired learners through interactive, accessible education.
 
-**Language:** CSS
+<img src="https://img.shields.io/badge/CSS-2d333b?style=flat&logo=css3&logoColor=white" alt="CSS">
 
 ### [Margsetu-](https://github.com/dhiraj1308/Margsetu-)
 A platform where young entrepreneurs pitch their ideas and connect with investors for funding opportunities.
 
-**Language:** JavaScript
+<img src="https://img.shields.io/badge/JavaScript-2d333b?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
 
 ### [weather-website](https://github.com/dhiraj1308/weather-website)
 A website that shows live weather conditions such as temperature, wind speed and humidity for different locations.
 
-**Language:** JavaScript
+<img src="https://img.shields.io/badge/JavaScript-2d333b?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
 
 ### [Daily-Life-Todo-list-](https://github.com/dhiraj1308/Daily-Life-Todo-list-)
 A task app for adding and managing daily tasks, with add/delete animations and strikethrough completion tracking. Handles 100+ tasks.
 
-**Language:** CSS
+<img src="https://img.shields.io/badge/CSS-2d333b?style=flat&logo=css3&logoColor=white" alt="CSS">
 
 ## Technical Skills
 
@@ -72,4 +72,7 @@ A task app for adding and managing daily tasks, with add/delete animations and s
 
 ## Get in Touch
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/pdhiraj13/) or by [email](mailto:dhirajpandipati@gmail.com).
+Feel free to reach out about software engineering, AI/ML or collaboration.
+
+<a href="mailto:dhirajpandipati@gmail.com"><img src="https://img.shields.io/badge/Email-dhirajpandipati@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=555555" alt="Email"></a>
+<a href="https://www.linkedin.com/in/pdhiraj13/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn"></a>
